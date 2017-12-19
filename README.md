@@ -20,14 +20,16 @@
   5. run json server:
     - run “./node_modules/.bin/json-server db.json” in termianl
     - or npm run server, but you should set scripts in package.JSON
+    <br>
     ```JSON
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "server": "./node_modules/.bin/json-server db.json"
     },
+
     ```
 
-    ## how to make post request
+## how to make post request
     - user postman do POST request:
       [POST] http://localhost:3000/people
       [Header] Content-Type:application/json
@@ -36,7 +38,7 @@
       {
       	"name":"herry"
       }
-      
+
       ```
     - GET request to check the result
       [GET] http://localhost:3000/people
