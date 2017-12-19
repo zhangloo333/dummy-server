@@ -21,13 +21,14 @@
     - run “./node_modules/.bin/json-server db.json” in termianl
     - or npm run server, but you should set scripts in package.JSON
     <br>
-    ```JSON
+
+      ```JSON
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "server": "./node_modules/.bin/json-server db.json"
     },
 
-    ```
+      ```
 
 ## how to make post request
     - user postman do POST request:
