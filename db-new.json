@@ -1,0 +1,513 @@
+{
+  "elements": [
+    {
+      "LDAP": "Noemy67@gmail.com",
+      "principal": "urn:li:userPrincipal:Arvid42",
+      "businessJustification": "grandfathered in Noemy67@gmail.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Noemy67@gmail.com",
+          "name": "Dr. Orion Hilpert",
+          "idType": "USER",
+          "source": "LS",
+          "modifiedTime": "2017-09-14T06:01:10.880Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Verla.Crooks@hotmail.com",
+      "principal": "urn:li:userPrincipal:Marietta.Runolfsson0",
+      "businessJustification": "grandfathered in Verla.Crooks@hotmail.com",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "aclList": [
+        {
+          "userName": "Verla.Crooks@hotmail.com",
+          "name": "Adan Turcotte",
+          "idType": "USER",
+          "source": "3H",
+          "modifiedTime": "2017-03-08T05:46:13.082Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Verla.Crooks@hotmail.com",
+          "name": "Leonard Schmitt PhD",
+          "idType": "USER",
+          "source": "A0",
+          "modifiedTime": "2017-03-13T07:10:39.077Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Verla.Crooks@hotmail.com",
+          "name": "Annabelle Heathcote",
+          "idType": "USER",
+          "source": "9Q",
+          "modifiedTime": "2017-10-01T10:36:22.514Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Dangelo.Nolan53@gmail.com",
+      "principal": "urn:li:userPrincipal:Jerrell55",
+      "businessJustification": "grandfathered in Dangelo.Nolan53@gmail.com",
+      "accessTypes": "WRITE",
+      "aclList": [
+        {
+          "userName": "Dangelo.Nolan53@gmail.com",
+          "name": "Cali Mayer",
+          "idType": "USER",
+          "source": "3O",
+          "modifiedTime": "2017-03-22T14:56:38.317Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Pattie18@hotmail.com",
+      "principal": "urn:li:userPrincipal:Alexandre_Williamson6",
+      "businessJustification": "grandfathered in Pattie18@hotmail.com",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "aclList": [
+        {
+          "userName": "Pattie18@hotmail.com",
+          "name": "Dr. Adaline Legros",
+          "idType": "USER",
+          "source": "OS",
+          "modifiedTime": "2017-04-13T14:19:45.903Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Pattie18@hotmail.com",
+          "name": "Maxine Upton",
+          "idType": "USER",
+          "source": "ZB",
+          "modifiedTime": "2017-04-20T01:16:47.146Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Pattie18@hotmail.com",
+          "name": "Abe Durgan",
+          "idType": "USER",
+          "source": "6G",
+          "modifiedTime": "2017-07-12T05:48:45.934Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Sigrid.Mante@hotmail.com",
+      "principal": "urn:li:userPrincipal:Reta_Krajcik42",
+      "businessJustification": "grandfathered in Sigrid.Mante@hotmail.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Sigrid.Mante@hotmail.com",
+          "name": "Luisa Terry",
+          "idType": "USER",
+          "source": "WZ",
+          "modifiedTime": "2017-06-02T09:07:49.368Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Erik.Russel@yahoo.com",
+      "principal": "urn:li:userPrincipal:Nona.Mante50",
+      "businessJustification": "grandfathered in Erik.Russel@yahoo.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Erik.Russel@yahoo.com",
+          "name": "Zetta Brekke",
+          "idType": "USER",
+          "source": "42",
+          "modifiedTime": "2017-12-01T02:44:04.404Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Erik.Russel@yahoo.com",
+          "name": "Hunter Hessel",
+          "idType": "USER",
+          "source": "EC",
+          "modifiedTime": "2017-01-13T09:20:11.498Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Erik.Russel@yahoo.com",
+          "name": "Rusty Muller",
+          "idType": "USER",
+          "source": "PU",
+          "modifiedTime": "2017-08-15T21:47:02.893Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Sabina12@yahoo.com",
+      "principal": "urn:li:userPrincipal:Fabiola_Olson97",
+      "businessJustification": "grandfathered in Sabina12@yahoo.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Sabina12@yahoo.com",
+          "name": "Bartholome Nader",
+          "idType": "USER",
+          "source": "XI",
+          "modifiedTime": "2017-07-22T23:06:51.251Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Sabina12@yahoo.com",
+          "name": "Clyde Grant",
+          "idType": "USER",
+          "source": "HL",
+          "modifiedTime": "2017-04-21T02:50:19.208Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Lee.Crooks56@gmail.com",
+      "principal": "urn:li:userPrincipal:Kellie.Mante",
+      "businessJustification": "grandfathered in Lee.Crooks56@gmail.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Lee.Crooks56@gmail.com",
+          "name": "Joanie Harris",
+          "idType": "USER",
+          "source": "2M",
+          "modifiedTime": "2017-09-29T18:21:13.627Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Monserrat_Dibbert27@hotmail.com",
+      "principal": "urn:li:userPrincipal:Frank32",
+      "businessJustification": "grandfathered in Monserrat_Dibbert27@hotmail.com",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "aclList": [
+        {
+          "userName": "Monserrat_Dibbert27@hotmail.com",
+          "name": "Cornell VonRueden",
+          "idType": "USER",
+          "source": "RB",
+          "modifiedTime": "2017-07-13T00:00:01.753Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Monserrat_Dibbert27@hotmail.com",
+          "name": "Mrs. Alexie Simonis",
+          "idType": "USER",
+          "source": "SK",
+          "modifiedTime": "2017-07-01T20:24:57.144Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Monserrat_Dibbert27@hotmail.com",
+          "name": "Oswald Wisoky",
+          "idType": "USER",
+          "source": "W0",
+          "modifiedTime": "2017-11-11T23:31:08.784Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Daren_Beatty47@yahoo.com",
+      "principal": "urn:li:userPrincipal:Domenick57",
+      "businessJustification": "grandfathered in Daren_Beatty47@yahoo.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Daren_Beatty47@yahoo.com",
+          "name": "Catharine Schulist",
+          "idType": "USER",
+          "source": "A4",
+          "modifiedTime": "2017-03-17T13:00:34.648Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Elise_Kerluke96@yahoo.com",
+      "principal": "urn:li:userPrincipal:Bella_Beer",
+      "businessJustification": "grandfathered in Elise_Kerluke96@yahoo.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Elise_Kerluke96@yahoo.com",
+          "name": "Dagmar Schmitt",
+          "idType": "USER",
+          "source": "NM",
+          "modifiedTime": "2017-09-20T22:14:40.861Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Elise_Kerluke96@yahoo.com",
+          "name": "Tyra Jacobi",
+          "idType": "USER",
+          "source": "AV",
+          "modifiedTime": "2017-02-09T07:30:08.847Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Elise_Kerluke96@yahoo.com",
+          "name": "Annalise Stiedemann",
+          "idType": "USER",
+          "source": "LQ",
+          "modifiedTime": "2017-11-18T05:38:50.441Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Naomie4@gmail.com",
+      "principal": "urn:li:userPrincipal:Opal22",
+      "businessJustification": "grandfathered in Naomie4@gmail.com",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "aclList": [
+        {
+          "userName": "Naomie4@gmail.com",
+          "name": "Adan Yost",
+          "idType": "USER",
+          "source": "XI",
+          "modifiedTime": "2017-09-04T23:10:35.641Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Naomie4@gmail.com",
+          "name": "Eulah Connelly",
+          "idType": "USER",
+          "source": "ZM",
+          "modifiedTime": "2017-08-02T05:40:56.531Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Donnell_Goodwin@hotmail.com",
+      "principal": "urn:li:userPrincipal:Fabian_Strosin",
+      "businessJustification": "grandfathered in Donnell_Goodwin@hotmail.com",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "aclList": [
+        {
+          "userName": "Donnell_Goodwin@hotmail.com",
+          "name": "Duncan Miller",
+          "idType": "USER",
+          "source": "SE",
+          "modifiedTime": "2017-05-25T11:47:15.932Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Donnell_Goodwin@hotmail.com",
+          "name": "Estel Price",
+          "idType": "USER",
+          "source": "NE",
+          "modifiedTime": "2017-10-04T13:52:46.287Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Donnell_Goodwin@hotmail.com",
+          "name": "Schuyler Wiza",
+          "idType": "USER",
+          "source": "2R",
+          "modifiedTime": "2017-07-13T17:15:29.062Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Eric83@gmail.com",
+      "principal": "urn:li:userPrincipal:Edythe_Hartmann",
+      "businessJustification": "grandfathered in Eric83@gmail.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Eric83@gmail.com",
+          "name": "Gladyce Schmeler",
+          "idType": "USER",
+          "source": "RF",
+          "modifiedTime": "2017-06-22T03:30:27.845Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Corene.Lemke@yahoo.com",
+      "principal": "urn:li:userPrincipal:Eldridge_Borer13",
+      "businessJustification": "grandfathered in Corene.Lemke@yahoo.com",
+      "accessTypes": "WRITE",
+      "aclList": [
+        {
+          "userName": "Corene.Lemke@yahoo.com",
+          "name": "Estella Kirlin",
+          "idType": "USER",
+          "source": "5N",
+          "modifiedTime": "2017-03-26T15:44:22.188Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Corene.Lemke@yahoo.com",
+          "name": "Lawrence Hegmann",
+          "idType": "USER",
+          "source": "LM",
+          "modifiedTime": "2017-08-19T15:16:33.089Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Corene.Lemke@yahoo.com",
+          "name": "Brando Hoppe",
+          "idType": "USER",
+          "source": "ZZ",
+          "modifiedTime": "2017-08-29T20:07:41.495Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Derrick.Prohaska@gmail.com",
+      "principal": "urn:li:userPrincipal:Joel40",
+      "businessJustification": "grandfathered in Derrick.Prohaska@gmail.com",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "aclList": [
+        {
+          "userName": "Derrick.Prohaska@gmail.com",
+          "name": "Clare Nienow",
+          "idType": "USER",
+          "source": "JS",
+          "modifiedTime": "2017-10-21T14:35:18.057Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Evalyn.Smitham46@gmail.com",
+      "principal": "urn:li:userPrincipal:Kaitlin90",
+      "businessJustification": "grandfathered in Evalyn.Smitham46@gmail.com",
+      "accessTypes": "WRITE",
+      "aclList": [
+        {
+          "userName": "Evalyn.Smitham46@gmail.com",
+          "name": "Aylin Gleason",
+          "idType": "USER",
+          "source": "L1",
+          "modifiedTime": "2017-12-27T13:58:31.709Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Evalyn.Smitham46@gmail.com",
+          "name": "Ms. Arnaldo Lindgren",
+          "idType": "USER",
+          "source": "22",
+          "modifiedTime": "2017-03-30T21:26:33.335Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Evalyn.Smitham46@gmail.com",
+          "name": "Johathan Gerhold",
+          "idType": "USER",
+          "source": "30",
+          "modifiedTime": "2017-06-02T05:08:57.099Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Hertha.Ullrich91@gmail.com",
+      "principal": "urn:li:userPrincipal:Melvina.Boehm80",
+      "businessJustification": "grandfathered in Hertha.Ullrich91@gmail.com",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "aclList": [
+        {
+          "userName": "Hertha.Ullrich91@gmail.com",
+          "name": "Mrs. Westley Hermiston",
+          "idType": "USER",
+          "source": "FR",
+          "modifiedTime": "2017-12-19T21:25:24.807Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Hertha.Ullrich91@gmail.com",
+          "name": "Mr. Nedra Murphy",
+          "idType": "USER",
+          "source": "C8",
+          "modifiedTime": "2017-02-02T13:12:20.888Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Devyn_Pfannerstill@hotmail.com",
+      "principal": "urn:li:userPrincipal:Rusty53",
+      "businessJustification": "grandfathered in Devyn_Pfannerstill@hotmail.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Devyn_Pfannerstill@hotmail.com",
+          "name": "Trey Emmerich",
+          "idType": "USER",
+          "source": "IQ",
+          "modifiedTime": "2017-06-24T02:17:15.143Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Devyn_Pfannerstill@hotmail.com",
+          "name": "Lina Christiansen III",
+          "idType": "USER",
+          "source": "2I",
+          "modifiedTime": "2017-10-21T02:05:39.883Z",
+          "ownerShip": "DataOwner"
+        },
+        {
+          "userName": "Devyn_Pfannerstill@hotmail.com",
+          "name": "Avery Bahringer",
+          "idType": "USER",
+          "source": "N5",
+          "modifiedTime": "2017-08-04T14:04:53.814Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    },
+    {
+      "LDAP": "Katlynn.Lockman@gmail.com",
+      "principal": "urn:li:userPrincipal:Jeanie_Lind49",
+      "businessJustification": "grandfathered in Katlynn.Lockman@gmail.com",
+      "accessTypes": "READ",
+      "aclList": [
+        {
+          "userName": "Katlynn.Lockman@gmail.com",
+          "name": "Mabelle Nikolaus III",
+          "idType": "USER",
+          "source": "HW",
+          "modifiedTime": "2017-05-14T13:03:05.614Z",
+          "ownerShip": "DataOwner"
+        }
+      ]
+    }
+  ]
+}
