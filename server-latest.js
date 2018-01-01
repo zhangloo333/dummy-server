@@ -1,15 +1,26 @@
 const jsonServer = require('json-server');
+const _ = require('underscore');
 const path = require('path')
-const db = require('./db-latest.json');
+const db = require('./db-1514743751548.json');
+
 
 const server = jsonServer.create();
-const router = jsonServer.router(path.join(__dirname, 'aclusers.js'))
+const router = jsonServer.router(path.join(__dirname, 'db-1514743751548.json'))
 
-router.render = (req, res) => {
-  res.jsonp({
-    body: res.locals.data
-  })
-}
+// router.render = (req, res) => {
+// if(res.locals.data.length > 0){
+//   console.log('cunzai', res.locals.data,' length=',res.locals.data.length);
+//   res.jsonp({
+//     hasAccess:true,
+//     body:db.elements
+//   })
+// } else{
+//     res.jsonp({
+//       hasAccess:false,
+//       body:db.elements
+//   });
+// }
+// }
 
 
 const middlewares = jsonServer.defaults();
@@ -39,7 +50,44 @@ server.get('/echo', (req, res) => {
 
 // To handle POST, PUT and PATCH you need to use a body-parser
 // You can use the one used by JSON Server
-server.use(jsonServer.bodyParser)
+server.use(jsonServer.bodyParser);
+
+server.get('/elements',(req,res,next) => {
+  const queryParams = req.query;
+  if(queryParams.hasOwnProperty('LDAP')){
+    console.log('queryParams', queryParams);
+    let checkUserList = [];
+    const userName = queryParams.LDAP.split('@')[0];
+    console.log('userName',userName);
+
+    const string = `urn:li:userPrincipal:${userName}`;
+    console.log('string',string);
+
+    checkUserList = _.filter(db.elements,function(e){
+      return e.principal === string;
+    });
+
+    console.log('checkUserList',checkUserList);
+
+
+
+    if(checkUserList.length > 0){
+        res.jsonp({
+          hasAccess:true,
+          body:db.elements
+        })
+    } else {
+          res.jsonp({
+            hasAccess:false,
+            body:db.elements
+        })
+    }
+  } else {
+    next();
+  }
+})
+
+
 server.post('/elements',(req, res, next) => {
     const body = req.body;
     const isApproved = body.businessJustification.toLowerCase().includes('read');
