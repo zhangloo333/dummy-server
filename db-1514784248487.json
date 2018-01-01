@@ -1,0 +1,91 @@
+{
+  "elements": [
+    {
+      "id": 0,
+      "principal": "urn:li:userPrincipal:Mitchell_Rath",
+      "businessJustification": "grandfathered in Mitchell_Rath",
+      "accessTypes": [
+        "READ",
+        "WRITE"
+      ],
+      "tableItem": {
+        "userName": "Mitchell_Rath",
+        "name": "Crawford MacGyver",
+        "idType": "USER",
+        "source": "WP",
+        "modifiedTime": "2017-06-01T16:40:46.470Z",
+        "ownerShip": "DataOwner"
+      }
+    },
+    {
+      "id": 1,
+      "principal": "urn:li:userPrincipal:Juwan.Simonis",
+      "businessJustification": "grandfathered in Juwan.Simonis",
+      "accessTypes": "READ",
+      "tableItem": {
+        "userName": "Juwan.Simonis",
+        "name": "Rigoberto Wisozk",
+        "idType": "USER",
+        "source": "KM",
+        "modifiedTime": "2017-04-21T02:29:44.699Z",
+        "ownerShip": "DataOwner"
+      }
+    },
+    {
+      "id": 2,
+      "principal": "urn:li:userPrincipal:Gust.Tillman45",
+      "businessJustification": "grandfathered in Gust.Tillman45",
+      "accessTypes": "WRITE",
+      "tableItem": {
+        "userName": "Gust.Tillman45",
+        "name": "Ms. Woodrow Herman",
+        "idType": "USER",
+        "source": "0S",
+        "modifiedTime": "2017-04-14T15:28:35.725Z",
+        "ownerShip": "DataOwner"
+      }
+    },
+    {
+      "id": 3,
+      "principal": "urn:li:userPrincipal:Tessie.Smitham59",
+      "businessJustification": "grandfathered in Tessie.Smitham59",
+      "accessTypes": "READ",
+      "tableItem": {
+        "userName": "Tessie.Smitham59",
+        "name": "Miss Ryan Prosacco",
+        "idType": "USER",
+        "source": "MQ",
+        "modifiedTime": "2017-07-03T01:30:36.843Z",
+        "ownerShip": "DataOwner"
+      }
+    },
+    {
+      "principal": "urn:li:userPrincipal:whereHows666",
+      "businessJustification": "grandfathered in read",
+      "accessTypes": "READ",
+      "tableItem": {
+        "userName": "whereHows666",
+        "name": "Demetrius Kihn V",
+        "idType": "USER",
+        "source": "YG",
+        "modifiedTime": "2017-08-14T10:19:29.311Z",
+        "ownerShip": "DataOwner"
+      },
+      "id": 4
+    },
+    {
+      "principal": "urn:li:userPrincipal:whereHows",
+      "businessJustification": "grandfathered in read",
+      "accessTypes": "READ",
+      "tableItem": {
+        "userName": "whereHows",
+        "name": "Raina Herzog",
+        "idType": "USER",
+        "source": "II",
+        "modifiedTime": "2017-02-12T01:19:45.851Z",
+        "ownerShip": "DataOwner"
+      },
+      "id": 5
+    }
+  ]
+}

@@ -31,7 +31,15 @@ module.exports = function() {
         id: n,
         principal:`urn:li:userPrincipal:${userName}`,
         businessJustification: `grandfathered in ${userName}`,
-        accessTypes: getRandomAccessTypes()
+        accessTypes: getRandomAccessTypes(),
+        tableItem: {
+          userName,
+          name: faker.name.findName(),
+          idType: 'USER',
+          source:`${faker.random.alphaNumeric()}${faker.random.alphaNumeric()}`.toUpperCase(),
+          modifiedTime: faker.date.past(),
+          ownerShip: 'DataOwner'
+        }
       }
     })
   }
