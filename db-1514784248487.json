@@ -18,74 +18,60 @@
       }
     },
     {
-      "id": 1,
-      "principal": "urn:li:userPrincipal:Juwan.Simonis",
-      "businessJustification": "grandfathered in Juwan.Simonis",
+      "principal": "urn:li:userPrincipal:Mitchell_Rath",
+      "businessJustification": "request read access",
       "accessTypes": "READ",
       "tableItem": {
-        "userName": "Juwan.Simonis",
-        "name": "Rigoberto Wisozk",
+        "userName": "Mitchell_Rath",
+        "name": "Jordane Gutkowski",
         "idType": "USER",
-        "source": "KM",
-        "modifiedTime": "2017-04-21T02:29:44.699Z",
+        "source": "D0",
+        "modifiedTime": "2017-09-28T04:32:10.518Z",
         "ownerShip": "DataOwner"
-      }
+      },
+      "id": 1
     },
     {
-      "id": 2,
-      "principal": "urn:li:userPrincipal:Gust.Tillman45",
-      "businessJustification": "grandfathered in Gust.Tillman45",
-      "accessTypes": "WRITE",
-      "tableItem": {
-        "userName": "Gust.Tillman45",
-        "name": "Ms. Woodrow Herman",
-        "idType": "USER",
-        "source": "0S",
-        "modifiedTime": "2017-04-14T15:28:35.725Z",
-        "ownerShip": "DataOwner"
-      }
-    },
-    {
-      "id": 3,
-      "principal": "urn:li:userPrincipal:Tessie.Smitham59",
-      "businessJustification": "grandfathered in Tessie.Smitham59",
+      "principal": "urn:li:userPrincipal:Mitchell_Rath",
+      "businessJustification": "request read access",
       "accessTypes": "READ",
       "tableItem": {
-        "userName": "Tessie.Smitham59",
-        "name": "Miss Ryan Prosacco",
+        "userName": "Mitchell_Rath",
+        "name": "Mireille Champlin Jr.",
         "idType": "USER",
-        "source": "MQ",
-        "modifiedTime": "2017-07-03T01:30:36.843Z",
+        "source": "CC",
+        "modifiedTime": "2017-10-18T04:24:38.676Z",
         "ownerShip": "DataOwner"
-      }
+      },
+      "id": 2
     },
     {
-      "principal": "urn:li:userPrincipal:whereHows666",
-      "businessJustification": "grandfathered in read",
+      "principal": "urn:li:userPrincipal:Mitchell_Rath",
+      "businessJustification": "request read access",
       "accessTypes": "READ",
       "tableItem": {
-        "userName": "whereHows666",
-        "name": "Demetrius Kihn V",
+        "userName": "Mitchell_Rath",
+        "name": "America Raynor",
         "idType": "USER",
-        "source": "YG",
-        "modifiedTime": "2017-08-14T10:19:29.311Z",
+        "source": "0O",
+        "modifiedTime": "2017-01-31T20:53:57.593Z",
+        "ownerShip": "DataOwner"
+      },
+      "id": 3
+    },
+    {
+      "principal": "urn:li:userPrincipal:wherehows",
+      "businessJustification": "test read",
+      "accessTypes": "READ",
+      "tableItem": {
+        "userName": "wherehows",
+        "name": "Eliseo Medhurst",
+        "idType": "USER",
+        "source": "OQ",
+        "modifiedTime": "2017-08-31T18:10:24.645Z",
         "ownerShip": "DataOwner"
       },
       "id": 4
-    },
-    {
-      "principal": "urn:li:userPrincipal:whereHows",
-      "businessJustification": "grandfathered in read",
-      "accessTypes": "READ",
-      "tableItem": {
-        "userName": "whereHows",
-        "name": "Raina Herzog",
-        "idType": "USER",
-        "source": "II",
-        "modifiedTime": "2017-02-12T01:19:45.851Z",
-        "ownerShip": "DataOwner"
-      },
-      "id": 5
     }
   ]
 }

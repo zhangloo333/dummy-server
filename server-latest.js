@@ -43,7 +43,8 @@ server.get('/elements',(req,res,next) => {
   const queryParams = req.query;
   if(queryParams.hasOwnProperty('LDAP')){
     let checkUserList = [];
-    const userName = queryParams.LDAP.split('@')[0];
+    // const userName = queryParams.LDAP.split('@')[0];
+    const userName = queryParams.LDAP;
     const string = `urn:li:userPrincipal:${userName}`;
     const db = getdb();
     console.log(db);
@@ -53,12 +54,12 @@ server.get('/elements',(req,res,next) => {
 
     if(checkUserList.length > 0){
         res.jsonp({
-          hasAccess:true,
+          isAccess:true,
           body:db.elements
         })
     } else {
           res.jsonp({
-            hasAccess:false,
+            isAccess:false,
             body:db.elements
         })
     }
