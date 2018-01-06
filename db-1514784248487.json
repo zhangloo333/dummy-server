@@ -16,62 +16,6 @@
         "modifiedTime": "2017-06-01T16:40:46.470Z",
         "ownerShip": "DataOwner"
       }
-    },
-    {
-      "principal": "urn:li:userPrincipal:Mitchell_Rath",
-      "businessJustification": "request read access",
-      "accessTypes": "READ",
-      "tableItem": {
-        "userName": "Mitchell_Rath",
-        "name": "Jordane Gutkowski",
-        "idType": "USER",
-        "source": "D0",
-        "modifiedTime": "2017-09-28T04:32:10.518Z",
-        "ownerShip": "DataOwner"
-      },
-      "id": 1
-    },
-    {
-      "principal": "urn:li:userPrincipal:Mitchell_Rath",
-      "businessJustification": "request read access",
-      "accessTypes": "READ",
-      "tableItem": {
-        "userName": "Mitchell_Rath",
-        "name": "Mireille Champlin Jr.",
-        "idType": "USER",
-        "source": "CC",
-        "modifiedTime": "2017-10-18T04:24:38.676Z",
-        "ownerShip": "DataOwner"
-      },
-      "id": 2
-    },
-    {
-      "principal": "urn:li:userPrincipal:Mitchell_Rath",
-      "businessJustification": "request read access",
-      "accessTypes": "READ",
-      "tableItem": {
-        "userName": "Mitchell_Rath",
-        "name": "America Raynor",
-        "idType": "USER",
-        "source": "0O",
-        "modifiedTime": "2017-01-31T20:53:57.593Z",
-        "ownerShip": "DataOwner"
-      },
-      "id": 3
-    },
-    {
-      "principal": "urn:li:userPrincipal:wherehows",
-      "businessJustification": "test read",
-      "accessTypes": "READ",
-      "tableItem": {
-        "userName": "wherehows",
-        "name": "Eliseo Medhurst",
-        "idType": "USER",
-        "source": "OQ",
-        "modifiedTime": "2017-08-31T18:10:24.645Z",
-        "ownerShip": "DataOwner"
-      },
-      "id": 4
     }
   ]
 }
