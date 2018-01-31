@@ -16,6 +16,34 @@
         "modifiedTime": "2017-06-01T16:40:46.470Z",
         "ownerShip": "DataOwner"
       }
+    },
+    {
+      "principal": "urn:li:userPrincipal:whereHows",
+      "businessJustification": "grandfathered in read ",
+      "accessTypes": "READ",
+      "tableItem": {
+        "userName": "whereHows",
+        "name": "Glenna Carroll",
+        "idType": "USER",
+        "source": "40",
+        "modifiedTime": "2017-10-21T05:19:42.283Z",
+        "ownerShip": "DataOwner"
+      },
+      "id": 1
+    },
+    {
+      "principal": "urn:li:userPrincipal:whereHows",
+      "businessJustification": "grandfathered in read ",
+      "accessTypes": "READ",
+      "tableItem": {
+        "userName": "whereHows",
+        "name": "Abdul Bahringer",
+        "idType": "USER",
+        "source": "RY",
+        "modifiedTime": "2017-03-15T12:06:26.202Z",
+        "ownerShip": "DataOwner"
+      },
+      "id": 2
     }
   ]
 }
